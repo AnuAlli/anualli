@@ -1,6 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/2ce47b3e-8c1f-438d-a304-9b9217d42ecc)
-
+Hi there 👋 Thank you for visiting my profile 👩🏾‍💻
 
 - 🔭 I’m currently working on getting a job as a Data Engineer
 - 👯 I’m looking to collaborate on any and all projects
