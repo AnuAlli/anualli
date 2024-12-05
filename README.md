@@ -70,8 +70,8 @@ I am experienced in Mlops (mlflow, evidently AI), big data tools (beam, airflow,
 ![image](https://github.com/prince1111/prince1111/blob/main/AWS-Certified-Data-Engineer-Associate_badge_300x300.a231ff0ff32a28adf061d3f7fa36564964b4a4b5.png?raw=true)
 
 </a> <a href="https://www.credly.com/badges/73cae60b-0f7b-472a-85ae-169b7a839704/linked_in_profile"> <img src="https://img.shields.io/badge/AWS%20Certified-Data%20Engineer%20Associate%20Credly%20Link-orange?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-
 ![image](https://github.com/prince1111/prince1111/blob/main/image_2_300x300.png?raw=true)
+
 </a> <a href="https://www.credly.com/badges/f40a915d-f932-4594-a7da-7fe37d23a40f/linked_in_profile"> <img src="https://img.shields.io/badge/Certified%20Tableau%20Desktop%20Specialist%20Credly%20Link-blue?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 
 
