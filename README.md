@@ -11,11 +11,11 @@
 
 
 ## About Me
-With a strong educational background from AltSchool Africa and hands-on experience as a Data Engineering/MLOps intern at hamoye.com, I am dedicated to leveraging data to drive insights and create impactful solutions. My expertise spans Python, PostgreSQL, GCP, Apache Beam, ETL, and Airflow enabling me to contribute effectively to data engineering projects.
+With a strong educational background from Wecloud Data and hands-on experience as a Data Engineering/MLOps intern at hamoye.com, I am dedicated to leveraging data to drive insights and create impactful solutions. My expertise spans Python, PostgreSQL, AWS, Azure, Apache Beam, ETL, and Airflow enabling me to contribute effectively to data engineering projects.
 
 Over the year I have engaged myself in projects that bring together data science, data analytics, and data engineering; developed and maintained prediction systems that help to discover hidden insights and provide a better view of ways to solve problems that drive the company’s growth and stability.
 
-I am experienced in Mlops (mlflow, evidently AI), big data tools (beam, airflow, docker ), and the use of data visualization techniques to present the results. I use SQL, Python, and cloud technologies (GCP, AWS) for my data projects and am very good at providing solutions to problems that stomp your company's data-driven decisions.
+I am experienced in Mlops (mlflow, evidently AI), big data tools (beam, airflow, docker ), and the use of data visualization techniques to present the results. I use SQL, Python, and cloud technologies (Azure, AWS) for my data projects and am very good at providing solutions to problems that stomp your company's data-driven decisions.
 
 
 
@@ -25,7 +25,7 @@ I am experienced in Mlops (mlflow, evidently AI), big data tools (beam, airflow,
 - Programming Languages: Python, SQL
 - Big Data Technologies/ETL Tools: Apache Beam, Apache Airflow, dbt
 - Database Management Systems: PostgreSQL, MongoDB
-- Cloud Platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP)
+- Cloud Platforms: Amazon Web Services (AWS), Datafactory (Azure)
 - Data Lake: Amazon s3, Google Cloud Storage
 - Data Warehousing: Amazon Redshift, Google BigQuery, Snowflake
 - Serverless Data Processing: Dataflow
@@ -97,6 +97,6 @@ I am experienced in Mlops (mlflow, evidently AI), big data tools (beam, airflow,
 
 
  ![](https://raw.githubusercontent.com/AnuAlli/github-stat/master/generated/overview.svg#gh-dark-mode-only) 
-  ![](https://raw.githubusercontent.com/AnuAlli/github-stat/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/AnuAlli/github-stat/master/generated/languages.svg#gh-dark-mode-only)
+ ![](https://raw.githubusercontent.com/AnuAlli/github-stat/master/generated/overview.svg#gh-light-mode-only)
+ ![](https://raw.githubusercontent.com/AnuAlli/github-stat/master/generated/languages.svg#gh-dark-mode-only)
  ![](https://raw.githubusercontent.com/AnuAlli/github-stat/master/generated/languages.svg#gh-light-mode-only)
