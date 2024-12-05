@@ -96,7 +96,7 @@ I am experienced in Mlops (mlflow, evidently AI), big data tools (beam, airflow,
 
 
 
- ![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/overview.svg#gh-dark-mode-only) 
-  ![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/languages.svg#gh-dark-mode-only)
- ![](https://raw.githubusercontent.com/oakerekan/github-stat/master/generated/languages.svg#gh-light-mode-only)
+ ![](https://raw.githubusercontent.com/AnuAlli/github-stat/master/generated/overview.svg#gh-dark-mode-only) 
+  ![](https://raw.githubusercontent.com/AnuAlli/github-stat/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/AnuAlli/github-stat/master/generated/languages.svg#gh-dark-mode-only)
+ ![](https://raw.githubusercontent.com/AnuAlli/github-stat/master/generated/languages.svg#gh-light-mode-only)
