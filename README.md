@@ -65,6 +65,11 @@ I am experienced in Mlops (mlflow, evidently AI), big data tools (beam, airflow,
 
 
 
+## 🛠 **Repositories & Contributions**  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nujabesploo&theme=github)
+
+
+
 --
 
 ## 🎓  **Certifications**
