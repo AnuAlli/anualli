@@ -60,8 +60,8 @@ I am experienced in Mlops (mlflow, evidently AI), big data tools (beam, airflow,
 
 
 
-📈 **Performance at a Glance**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nujabesploo&show_icons=true&theme=gruvbox)
+## 📈 **Performance at a Glance**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnuAlli&show_icons=true&theme=gruvbox)
 
 
 
