@@ -55,8 +55,13 @@ I am experienced in Mlops (mlflow, evidently AI), big data tools (beam, airflow,
 
 ## 📊 GitHub Stats
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnuAlli&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuAlli&layout=compact&theme=radical)
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+
 
 --
 
