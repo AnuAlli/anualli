@@ -27,7 +27,7 @@
 - 👯 How to reach me **anuajimafowoku@gmail.com**
 - ⚡ Fun fact: I love learning new technologies and I also love to play and teach fifa
 
-SKILLS: `Python` `PySpark` `Databricks` `AWS Cloud` `Linux` `SQl` `Git`  `NoSQL` `ETL/ELT` `Data pipeline` `Dbt` `Data Warehousing` `Git Actions (CI/CD)` `Terraform` `Snowflake` `Redshift` `Data Modeling`
+SKILLS: `Python` `PySpark` `Databricks` `AWS Cloud` `Linux` `SQl` `Git`  `NoSQL` `ETL/ELT` `Data pipeline` `Dbt` `Data Warehousing` `Git Actions (CI/CD)` `AWS CDK` `Snowflake` `Redshift` `Data Modeling` 
 
 ### Connect with me:
 
