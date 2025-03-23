@@ -1,72 +1,60 @@
+<!-- Updating my readme for GitHub-->
 
-## Hi there 👋 Thank you for visiting my profile 👩🏾‍💻
+<h1 align="center">Hi <img src="https://github.com/Joshua-omolewa/joshua-omolewa/blob/98a6f340a42861c2d1d58301ae9bd4fa6271dff1/Img/Wave.gif" height="55px" width="55px">, I'm Anu Alli</h1>
+<h3 align="center">An Engineer, an Active Learner, and I am really passionate about solving data problems 😁 </h3>
 
-- 🔭 I’m currently working on getting a job as a Data Engineer
-- 👯 I’m looking to collaborate on any and all projects
-- 🤔 I’m looking for help with Data tasks
-- 💬 Ask me about: Data Engineering
-- 📫 How to reach me: anuajimafowoku@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Love listening to music, Love looking up recipes to try out different dishes, I'm more productive at home
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
 
+<a href="https://www.linkedin.com/in/anu-a-a50805166/">
+  <img align="left" alt="Anu Alli" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-## About Me
-With a strong educational background from Wecloud Data and hands-on experience as a Data Engineering/MLOps intern at hamoye.com, I am dedicated to leveraging data to drive insights and create impactful solutions. My expertise spans Python, PostgreSQL, AWS, Azure, Apache Beam, ETL, and Airflow enabling me to contribute effectively to data engineering projects.
+<a href="mailto:anuajimafowoku@gmail.com ">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
-Over the year I have engaged myself in projects that bring together data science, data analytics, and data engineering; developed and maintained prediction systems that help to discover hidden insights and provide a better view of ways to solve problems that drive the company’s growth and stability.
+<div align="left">
+    <img src="https://komarev.com/ghpvc/?username=joshua-omolewa" alt="joshua-omolewa">
+</div>
 
-I am experienced in Mlops (mlflow, evidently AI), big data tools (beam, airflow, docker ), and the use of data visualization techniques to present the results. I use SQL, Python, and cloud technologies (Azure, AWS) for my data projects and am very good at providing solutions to problems that stomp your company's data-driven decisions.
+<br />
 
+## I'm a Data engineer who is passionate about helping companies solve their data problems. 
 
+- 🔭 I work as a data engineering consultant and completed my postgraduate data engineering program with WecloudData and I have experience building efficient and scalable data infrastructures using AWS services & other open source tools e.g. Python, Spark, Apache Nifi, Airflow, Git etc.I am proficient in implementing data governance  and data quality using great expectations.
+- 🌱 I’m currently solving data engineering problems and working on  some **projects** in private at the moment. (**More projects Coming soon**)
+- 🦅 2024/2025 Goals: Obtain my AWS Data Engineer Associate Certificate, contribute  to Open Source projects, and play guitar
+- 👯 How to reach me **anuajimafowoku@gmail.com**
+- ⚡ Fun fact: I love learning new technologies and I also love to play and teach fifa
 
-# My Skills includes:
+SKILLS: `Python` `PySpark` `Databricks` `AWS Cloud` `Linux` `SQl` `Git`  `NoSQL` `ETL/ELT` `Data pipeline` `Dbt` `Data Warehousing` `Git Actions (CI/CD)` `Terraform` `Snowflake` `Redshift` `Data Modeling`
 
-## Technical Skills:
-- Programming Languages: Python, SQL
-- Big Data Technologies/ETL Tools: Apache Beam, Apache Airflow, dbt
-- Database Management Systems: PostgreSQL, MongoDB
-- Cloud Platforms: Amazon Web Services (AWS), Datafactory (Azure)
-- Data Lake: Amazon s3, Google Cloud Storage
-- Data Warehousing: Amazon Redshift, Google BigQuery, Snowflake
-- Serverless Data Processing: Dataflow
-- Messaging Service: Google Pub/Sub
-- Data Visualization: Looker
-- Version Control: Git, GitHub
+### Connect with me:
 
+[<img align="left" alt="Anu Alli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anu-a-a50805166/)
 
+<br />
 
-<p align="center"> 
- <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
- <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
-    <img alt="BASH" src="https://img.shields.io/badge/Bash-27338e?style=for-the-badge&logo=Bash&logoColor=white" />
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-339933?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2314354C.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
-      <img alt="AWS" src="https://img.shields.io/badge/aws-F7931E?style=for-the-badge&logo=aws&logoColor=white" />
-</p>
+### Languages and Tools:
+<img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="pandas" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
+<img align="left" alt="AWS" width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Snowflake" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/128px-Snowflake_Logo.svg.png" />
+<img align="left" alt="Postgre" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>  
 
-
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnuAlli&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuAlli&layout=compact&theme=radical)
+<br />
 
 
 
-## 📈 **Performance at a Glance**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnuAlli&show_icons=true&theme=gruvbox)
+<br />
 
-
-
-## 🛠 **Repositories & Contributions**  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnuAlli&theme=github)
 
 
 
