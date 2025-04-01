@@ -25,7 +25,7 @@
 - 🌱 I’m currently solving data engineering problems and working on  some **projects** in private at the moment. (**More projects Coming soon**)
 - 🦅 2024/2025 Goals: Obtain my AWS Data Engineer Associate Certificate, contribute  to Open Source projects, and play guitar
 - 👯 How to reach me **anuajimafowoku@gmail.com**
-- ⚡ Fun fact: I love learning new technologies and I also love to play and teach fifa
+- ⚡ Fun fact: I love learning new technologies and I also love to play and coach soccer
 
 SKILLS: `Python` `PySpark` `Databricks` `AWS Cloud` `Linux` `SQl` `Git`  `NoSQL` `ETL/ELT` `Data pipeline` `Dbt` `Data Warehousing` `Git Actions (CI/CD)` `AWS CDK` `Snowflake` `Redshift` `Data Modeling` 
 
